@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/tests/reading_from_file.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+

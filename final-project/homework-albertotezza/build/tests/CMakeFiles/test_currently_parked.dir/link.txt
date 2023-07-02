@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_currently_parked.dir/test_currently_parked.cpp.o  -o test_currently_parked ../library/libIOManagement.a ../library/libPaymentsManagement.a ../library/libDateTime.a ../library/libCar.a ../library/libParking.a -lpthread 

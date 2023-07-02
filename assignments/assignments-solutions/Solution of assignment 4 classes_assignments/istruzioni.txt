@@ -1,0 +1,10 @@
+compile with:
+
+cmake .
+make
+run with:
+
+./main
+./tests/testPatron
+./tests/testDate
+./tests/testBook

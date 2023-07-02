@@ -1,0 +1,7 @@
+compile with:
+
+g++ -o testPatron testPatron.cpp Patron.cpp
+
+run with:
+
+./testPatron

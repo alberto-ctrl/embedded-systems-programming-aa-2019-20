@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/../include/DateTime.h
+ostream
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/date_time.cpp
+DateTime.h
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/DateTime.h
+ostream
+-
+iostream
+-
+iomanip
+-
+

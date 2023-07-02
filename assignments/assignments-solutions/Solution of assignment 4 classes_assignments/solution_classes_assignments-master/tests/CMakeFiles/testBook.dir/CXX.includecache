@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+Book.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+string
+-
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.cpp
+ostream
+-
+iostream
+-
+string
+-
+tuple
+-
+algorithm
+-
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+ostream
+-
+tuple
+-
+vector
+-
+string
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/tests/testBook.cpp
+vector
+-
+iostream
+-
+Book.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/tests/Book.h
+
+tests/../Book.h
+string
+-
+Date.h
+tests/../Date.h
+
+tests/../Date.h
+ostream
+-
+tuple
+-
+vector
+-
+string
+-
+

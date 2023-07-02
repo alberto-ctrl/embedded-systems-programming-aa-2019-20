@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/reading_from_file.dir/reading_from_file.cpp.o  -o reading_from_file 

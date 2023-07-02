@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testBook.dir/testBook.cpp.o CMakeFiles/testBook.dir/__/Book.cpp.o CMakeFiles/testBook.dir/__/Date.cpp.o  -o testBook 

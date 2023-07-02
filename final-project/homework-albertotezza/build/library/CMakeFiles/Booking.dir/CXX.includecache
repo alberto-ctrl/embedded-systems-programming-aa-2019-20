@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/../include/Booking.h
+Car.h
+../library/../include/Car.h
+list
+-
+
+../library/../include/Car.h
+DateTime.h
+../library/../include/DateTime.h
+ostream
+-
+string
+-
+
+../library/../include/DateTime.h
+ostream
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/booking.cpp
+Booking.h
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/Booking.h
+Car.h
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/Car.h
+iostream
+-
+list
+-
+

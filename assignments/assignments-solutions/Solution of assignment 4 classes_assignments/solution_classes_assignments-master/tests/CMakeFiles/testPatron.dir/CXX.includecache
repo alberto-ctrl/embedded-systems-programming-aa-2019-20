@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.cpp
+iostream
+-
+string
+-
+Patron.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+string
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/tests/testPatron.cpp
+vector
+-
+iostream
+-
+Patron.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/tests/Patron.h
+
+tests/../Patron.h
+string
+-
+

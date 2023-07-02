@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_parking_spaces.dir/test_parking_spaces.cpp.o  -o test_parking_spaces ../library/libIOManagement.a ../library/libPaymentsManagement.a ../library/libBookingsManagement.a ../library/libDateTime.a ../library/libCar.a ../library/libParking.a ../library/libBooking.a -lpthread 

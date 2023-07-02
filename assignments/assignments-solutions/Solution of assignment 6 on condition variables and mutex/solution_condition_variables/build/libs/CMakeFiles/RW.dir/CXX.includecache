@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/../include/RW.h
+mutex
+-
+condition_variable
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/libs/RW.cpp
+iostream
+-
+thread
+-
+mutex
+-
+RW.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/libs/RW.h
+

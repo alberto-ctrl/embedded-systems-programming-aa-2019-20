@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIOManagement.a  CMakeFiles/IOManagement.dir/opening_reading_closing.cpp.o CMakeFiles/IOManagement.dir/find_next_event.cpp.o CMakeFiles/IOManagement.dir/io_management.cpp.o
+/usr/bin/ranlib libIOManagement.a

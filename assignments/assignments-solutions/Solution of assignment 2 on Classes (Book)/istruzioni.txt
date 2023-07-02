@@ -1,0 +1,7 @@
+compile with:
+
+g++ -Wall -o testBook testBook.cpp Date.cpp Book.cpp
+
+run with:
+
+./testBook

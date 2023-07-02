@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+Book.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+string
+-
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.cpp
+ostream
+-
+iostream
+-
+string
+-
+tuple
+-
+algorithm
+-
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+ostream
+-
+tuple
+-
+vector
+-
+string
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Library.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+Library.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Library.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Library.h
+vector
+-
+string
+-
+Book.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+Patron.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.cpp
+iostream
+-
+string
+-
+Patron.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+string
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/main.cpp
+Library.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Library.h
+Book.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Book.h
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+Patron.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Patron.h
+vector
+-
+string
+-
+iostream
+-
+

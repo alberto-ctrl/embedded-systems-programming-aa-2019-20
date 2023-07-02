@@ -1,0 +1,10 @@
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/libs/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/libs/CMakeFiles/RW.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/libs/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/src/CMakeFiles/bank.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/src/CMakeFiles/test_RW.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/build/src/CMakeFiles/counter.dir

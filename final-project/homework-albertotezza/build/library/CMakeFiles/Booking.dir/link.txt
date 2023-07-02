@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBooking.a  CMakeFiles/Booking.dir/booking.cpp.o
+/usr/bin/ranlib libBooking.a

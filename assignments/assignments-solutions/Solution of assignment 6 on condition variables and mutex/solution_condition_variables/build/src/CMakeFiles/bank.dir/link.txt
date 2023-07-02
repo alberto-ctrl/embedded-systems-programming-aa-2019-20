@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bank.dir/bank.cpp.o  -o bank -lpthread 

@@ -1,0 +1,3 @@
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/student/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/student/build/CMakeFiles/testStudent.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/student/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/../include/Car.h
+DateTime.h
+../library/../include/DateTime.h
+ostream
+-
+string
+-
+
+../library/../include/DateTime.h
+ostream
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/car.cpp
+Car.h
+/mnt/c/Users/Alberto/Documents/GitHub/esame/homework-albertotezza/library/Car.h
+ostream
+-
+iostream
+-
+string
+-
+

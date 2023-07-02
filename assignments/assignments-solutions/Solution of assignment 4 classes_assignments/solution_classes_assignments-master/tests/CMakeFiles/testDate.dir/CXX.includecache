@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.cpp
+ostream
+-
+iostream
+-
+string
+-
+tuple
+-
+algorithm
+-
+Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+ostream
+-
+tuple
+-
+vector
+-
+string
+-
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/tests/testDate.cpp
+iostream
+-
+../Date.h
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 4 classes_assignments/solution_classes_assignments-master/Date.h
+

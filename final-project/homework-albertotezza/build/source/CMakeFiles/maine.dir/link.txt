@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/maine.dir/main.cpp.o  -o maine ../library/libIOManagement.a ../library/libPaymentsManagement.a ../library/libBookingsManagement.a ../library/libDateTime.a ../library/libCar.a ../library/libParking.a ../library/libBooking.a -lpthread 

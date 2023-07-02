@@ -1,0 +1,3 @@
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/hello_world/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/hello_world/build/CMakeFiles/hello.dir
+/mnt/c/Users/Alberto/Documents/GitHub/homework/CMake/hello_world/build/CMakeFiles/edit_cache.dir

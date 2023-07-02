@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testPatron.dir/testPatron.cpp.o CMakeFiles/testPatron.dir/__/Patron.cpp.o  -o testPatron 

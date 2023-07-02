@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Alberto/Documents/GitHub/homework/Solution of assignment 6 on condition variables and mutex/solution_condition_variables/src/counter.cpp
+iostream
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+

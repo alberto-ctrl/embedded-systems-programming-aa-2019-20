@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBookingsManagement.a  CMakeFiles/BookingsManagement.dir/opening_reading_closing.cpp.o CMakeFiles/BookingsManagement.dir/find_next_event.cpp.o CMakeFiles/BookingsManagement.dir/bookings_management.cpp.o
+/usr/bin/ranlib libBookingsManagement.a

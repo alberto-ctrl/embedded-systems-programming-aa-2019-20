@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRW.a  CMakeFiles/RW.dir/RW.cpp.o
+/usr/bin/ranlib libRW.a

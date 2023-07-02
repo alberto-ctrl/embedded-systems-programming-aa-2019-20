@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPaymentsManagement.a  CMakeFiles/PaymentsManagement.dir/opening_reading_closing.cpp.o CMakeFiles/PaymentsManagement.dir/payments_management.cpp.o
+/usr/bin/ranlib libPaymentsManagement.a
